@@ -1,0 +1,20 @@
+<!-- Input form -->
+<form {{action "newTask" on="submit"}}>
+  <div class="form-group">
+  <p>
+    <label for="task-title">Title</label>
+    {{input value=title
+      type="text"
+      class="form-control"
+      id="task-title"}}
+  </p>
+  <p>
+    <label for="task-due-date">Due Date</label>
+    {{input value=dueDate
+      type="date"
+      class="form-control"
+      id="task-due-date"}}
+  </p>
+  {{ input type="submit" value="New Task" class="btn btn-success"}}
+  </div>
+</form><br>

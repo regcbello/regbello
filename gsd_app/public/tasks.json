@@ -1,0 +1,21 @@
+{
+  "tasks":
+    [{
+    "id": 1,
+    "title": "complete this course",
+    "due_date": "12/2/2017",
+    "created_at": "Tue Nov 28 2017 13:08:59 GMT-0500 (EST)"
+  },
+  {
+    "id": 2,
+    "title": "walk the dog",
+    "due_date": "12/7/2017",
+    "created_at": "Tue Nov 28 2017 13:08:59 GMT-0500 (EST)"
+  },
+  {
+    "id": 3,
+    "title": "mow the lawn",
+    "due_date": "12/24/2017",
+    "created_at": "Tue Nov 28 2017 13:08:59 GMT-0500 (EST)"
+  }]
+}
